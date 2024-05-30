@@ -42,7 +42,7 @@ Once you've opened the portfolio in your web browser, you can navigate through t
 
 ## Demo
 
-You can view a live demo of this portfolio [here](#file:///D:/0_AYSE_GOKTAS_/01-DESKTOPFILES/02-WORKS/01-SOFTWARE/02-PROJECTS/04-MyPortfolio/myPortfolio_README/index.html) 
+You can view a live demo of this portfolio [here](#) 
 
 ## Credits
 
