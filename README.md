@@ -1,4 +1,4 @@
-# myPortfolioREADME
+# My Architectural Portfolio
 
 ## Table of Contents
 
